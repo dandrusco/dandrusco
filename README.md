@@ -1,6 +1,6 @@
 ### Hola 👋, soy **Danilo Andrusco**
 #### un apasionado del desarrollo de software y la ciencia de datos.
-![un apasionado del desarrollo de software y la ciencia de datos.](https://media.licdn.com/dms/image/D4E16AQFmKDCT0mgTZg/profile-displaybackgroundimage-shrink_350_1400/0/1695310569634?e=1720656000&v=beta&t=-1V0Xn_59M3LnpwLLEA9ViAB9hEh3AHU6zOg8o7C1D0)
+![un apasionado del desarrollo de software y la ciencia de datos.](https://pbs.twimg.com/profile_banners/56757117/1581527699/1500x500)
 
  Mi camino en la programación comenzó con Python, donde he construido una sólida base de conocimientos y experiencia. Además, tengo experiencia trabajando con Swift y SwiftUI, creando aplicaciones móviles para iOS.
 
